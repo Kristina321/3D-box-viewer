@@ -10,7 +10,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-`git clone https://github.com/Kristina321/3D-box-viewer.git` > `cd 3D-box`
+`git clone https://github.com/Kristina321/3D-box-viewer.git` > `cd 3D-box-viewer`
 
 2. Установите зависимости:
 `npm install`
